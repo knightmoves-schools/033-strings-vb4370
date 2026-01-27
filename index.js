@@ -2,4 +2,8 @@ let firstName = "idk" ;
 let jobTitle = "idk" ;
 let city = "idk" ;
 
-document.getElementById("result").innerHTML = "newJobPost";
+let newJobPost = "firstName" ;
+let newJobPost = "jobTitle" ;
+let newJobPost = "city" ;
+
+document.getElementById('result').innerHTML = newJobPost;
